@@ -1,7 +1,9 @@
 ### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT . 
-🌱 I’m currently learning React and Backend.
+🌱 I’m currently learning React and Backend along with DSA.
 
 🔭 I’m currently working on a React project.
+
+
 <!--
 **AMIN34/AMIN34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
