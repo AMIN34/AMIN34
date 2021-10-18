@@ -1,5 +1,5 @@
 ### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT . 
-🌱 I’m currently learning React and Backend along with DSA.
+🌱 I’m currently learning Cybersecurity and Backend.
 
 🔭 I’m currently working on a React project.
 
