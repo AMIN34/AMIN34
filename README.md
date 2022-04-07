@@ -1,4 +1,4 @@
-### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT (5th SEM). 
+### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT (6th SEM). 
 🌱 I’m currently learning Cybersecurity and Backend.
 
 🔭 Currently working on a React project.(On hold)
