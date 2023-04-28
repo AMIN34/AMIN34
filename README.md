@@ -1,5 +1,5 @@
-### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT (6th SEM). 
-🌱 I’m currently learning Data Analytics and Cloud.
+### Hi 👋 I am Aminur. Currently persuing B.Tech from AOT (8th SEM). 
+🌱 I’m currently learning Django.
 
 
 
